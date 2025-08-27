@@ -162,7 +162,7 @@ Advanced TTS Fine-Tuning: Build a custom model for Nahuatl-origin words
 Mobile App: React Native frontend for iOS & Android
 Historical Audio: Include recordings from native Nahuatl speakers
 
-🙏 Acknowledgments
+Acknowledgments
 
 Rime TTS for their expressive, developer-friendly API
 
@@ -171,6 +171,7 @@ Hugging Face for providing powerful models like Phi-3
 The enduring cultural legacy of Nahuatl—its rhythms, meanings, and influence on modern Spanish
 
 🤝 Join the Mitote
+
 This is an open source project, and contributions are welcome. 
 Please feel free to open an issue or submit a pull request.
 Explore the stories words tell. Preserve linguistic heritage.
