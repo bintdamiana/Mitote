@@ -57,7 +57,7 @@ mitote/
 │   └── README.md
 └── LICENSE
 
-🚀 Quick Start
+Quick Start
 Prerequisites
 
 Node.js (v16+) for the React frontend
