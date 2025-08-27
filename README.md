@@ -121,12 +121,19 @@ Example Entry:
 
 {
   "word": "mitote",
+  
   "language": "es-MX",
+  
   "origin": "Nahuatl",
+  
   "original_word": "mitotiqui",
+  
   "pronunciation_breakdown": "mee-TOH-te",
+
   "corrected_ssml": "mi.'to.te",
+  
   "origin_story": "From Nahuatl 'mitotiqui' (dancer), referring to festive ceremonies. Evolved to mean a lively, chaotic, and joyful party or gossip session.",
+  
   "embedding_context": "Word: mitote. Origin: Nahuatl 'mitotiqui'. Meaning: A noisy fuss or lively party. Pronunciation: mi.'to.te"
 }
 
